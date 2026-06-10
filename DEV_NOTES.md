@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added inline documentation for core functions
 - Documented config options
 - Wrote notes on upcoming feature design
+
+## 2026-06-10
+- Added .editorconfig for consistent formatting
+- Addressed feedback from self code review
