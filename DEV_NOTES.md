@@ -15,3 +15,8 @@ Personal development log — notes, findings, and ongoing work.
 - Bumped patch version
 - Cross-checked behaviour against spec
 - Added CONTRIBUTING.md stub
+
+## 2026-08-05
+- Added healthcheck endpoint stub
+- Improved error handling in edge cases
+- Added basic retry logic for network requests
