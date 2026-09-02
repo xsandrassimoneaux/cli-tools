@@ -20,3 +20,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added healthcheck endpoint stub
 - Improved error handling in edge cases
 - Added basic retry logic for network requests
+
+## 2026-09-02
+- Updated CI cache strategy
