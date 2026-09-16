@@ -23,3 +23,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-09-02
 - Updated CI cache strategy
+
+## 2026-09-16
+- Wrote notes on upcoming feature design
+- Added CONTRIBUTING.md stub
+- Added .editorconfig for consistent formatting
