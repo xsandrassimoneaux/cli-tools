@@ -36,3 +36,6 @@ Personal development log — notes, findings, and ongoing work.
 - Checked for memory leaks in long-running path
 - Cross-checked behaviour against spec
 - Verified compatibility with latest runtime version
+
+## 2026-10-14
+- Added basic retry logic for network requests
