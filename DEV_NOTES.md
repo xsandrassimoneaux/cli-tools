@@ -31,3 +31,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-10-14
 - Reviewed open issues, added labels
+
+## 2026-10-14
+- Checked for memory leaks in long-running path
+- Cross-checked behaviour against spec
+- Verified compatibility with latest runtime version
