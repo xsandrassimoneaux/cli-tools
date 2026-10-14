@@ -28,3 +28,6 @@ Personal development log — notes, findings, and ongoing work.
 - Wrote notes on upcoming feature design
 - Added CONTRIBUTING.md stub
 - Added .editorconfig for consistent formatting
+
+## 2026-10-14
+- Reviewed open issues, added labels
