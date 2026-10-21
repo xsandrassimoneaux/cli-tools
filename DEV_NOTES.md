@@ -39,3 +39,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-10-14
 - Added basic retry logic for network requests
+
+## 2026-10-21
+- Documented config options
+- Ran linter, applied auto-fixes
+- Resolved TODO items from previous session
