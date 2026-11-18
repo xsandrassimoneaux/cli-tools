@@ -44,3 +44,7 @@ Personal development log — notes, findings, and ongoing work.
 - Documented config options
 - Ran linter, applied auto-fixes
 - Resolved TODO items from previous session
+
+## 2026-11-18
+- Updated CI cache strategy
+- Investigated performance bottleneck, noted findings
